@@ -1,6 +1,6 @@
 Hi! My name's Daniil.
 
-I've been learning Java for 1.5 years.
+I've been learning Java for 3 years.
 Here you can see my pet projects.
 
 I would be glad to take participation in some projects.
