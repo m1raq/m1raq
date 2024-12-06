@@ -14,7 +14,7 @@
 <li index="2"><h4>Hibernate ORM</h4></li>
 <li index="2"><h4>Liquibase</h4></li>
 </ul>
-<h3 class="mb-2 mt-6 text-lg first:mt-3">Contact information:</h3>
+<h2 class="mb-2 mt-6 text-lg first:mt-3">Contact information:</h2>
 <ul class="list-disc pl-8">
 <li index="0"><h4>https://t.me/cfogoogle</h4></li>
 </ul>
