@@ -1,7 +1,7 @@
 
 <h1 class="mb-3 mt-3 text-3xl font-normal first:mt-3">About me</h1>
-<h3 class="mb-2 mt-6 text-lg first:mt-3">I confidently know Java core, data structures and understand the principles of OOP.
-  There are middle skills in multithreading. I actively interact with Spring Framework.</h2>
+<h4 class="mb-2 mt-6 text-lg first:mt-3">I confidently know Java core, data structures and understand the principles of OOP.
+  There are middle skills in multithreading. I actively interact with Spring Framework.</h4>
 <h2 class="mb-2 mt-6 text-lg first:mt-3">Technology stack:</h2>
 <ul class="list-disc pl-8">
 <li index="0"><h4>Java 8+</h4></li>
